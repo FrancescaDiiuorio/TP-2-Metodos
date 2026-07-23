@@ -1,4 +1,4 @@
-# TP 2 - Métodos Computacionales
+# Métodos Computacionales "Curvas de Bézier"
 
 Trabajo práctico de la materia Métodos Computacionales (UTDT) sobre curvas de Bézier y ajuste de datos por cuadrados mínimos.
 
